@@ -1,0 +1,6 @@
+[Desktop Entry] 
+Type=Application 
+Encoding=UTF-8 
+Name=Door
+Exec=python /home/pi/door.py
+Terminal=false 

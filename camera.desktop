@@ -1,0 +1,6 @@
+[Desktop Entry] 
+Type=Application 
+Encoding=UTF-8 
+Name=Camera
+Exec=python /home/pi/camera.py
+Terminal=false 
